@@ -1,4 +1,4 @@
-- 👋 Hi, I’m kristen! @bartelk
+- 👋 Hi, I’m Kristen! @bartelk
 - 👀 I’m interested pretty much everything at the moment
 - 🌱 I’m currently learning jS
 - 💞️ I’m looking to collaborate on any creative web project
