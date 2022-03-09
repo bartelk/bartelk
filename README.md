@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kristen! @kristenbartel
-- 👀 I’m interested pretty much everything at the moment
-- 🌱 I’m currently learning jS
-- 💞️ I’m looking to collaborate on any creative web project
+- 👀 I’m interested interested in creating beautiful, uncomplicated user experiences using well organized code logic.
+- 🌱 I’m currently working on a back end project using node.js, express.js and postgresSQL.
+- 💞️ I’m looking for a position in web development or software engineering.
 - 📫 kristenbartel@gmail.com
 
 <!---
