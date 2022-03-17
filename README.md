@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kristen! @kristenbartel
-- 👀 I’m interested interested in creating beautiful, uncomplicated user experiences using well organized code logic.
-- 🌱 I’m currently working on a back end project using node.js, express.js and postgresSQL.
+- 👀 I’m interested in creating beautiful, uncomplicated user experiences using well organized code and logic.
+- 🌱 I’m currently working on a back end project using node.js, express.js and sequelize.
 - 💞️ I’m looking for a position in web development or software engineering.
 - 📫 kristenbartel@gmail.com
 
