@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kristen! @kristenbartel
-- 👀 I’m interested in creating beautiful, uncomplicated user experiences using well organized code and logic.
-- 🌱 I’m currently working on a back end project using node.js, express.js and sequelize.
-- 💞️ I’m looking for a position in web development or software engineering.
+- 👀 I’m interested in creating beautiful, uncomplicated user experiences using well organized code and sound logic.
+- 🌱 I’m currently working on a full stack project using React.
+- 💞️ I’m looking for a position in web development or software engineering, one where I can learn a new langauge.
 - 📫 kristenbartel@gmail.com
 
 <!---
